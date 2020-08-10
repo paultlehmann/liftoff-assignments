@@ -1,5 +1,11 @@
 # Project Outline
 
+### Overview
+
+The purpose of this application is to help facilitate remote learning by allowing teachers and students (and potentially also parents) to create, complete, and grade assignments or tests through a web platform.  This will be a three (potentially four) step process, each involving a distinct type of user interaction: assignment/test creation and grading (done by the teacher), assignment/test completion (done by the student), and if time allows the teacher will also be able to leave comments that the student (and potentially parents) can view.  
+
+My original proposal in class would have had essentially the same underlying functionality, but was going to be used for translation projects rather than school assignments.  I have since decided however that this system lends itself better to this usage and that an application that helps with remote education would be in higher demand these days anyway.
+
 ### Features
 
 1.	User login: Users will be able to create accounts of either Student or Teacher (or potentially Parent) type.  Once logged in, they will be able to view any complete or incomplete tests/assignments associated with their account or perform the actions detailed below.
