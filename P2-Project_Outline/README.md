@@ -1,16 +1,4 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
-
-## Submission Instructions
-
-### Overview
-
-The purpose of this application is to help facilitate remote learning by allowing teachers and students (and potentially also parents) to create, complete, and grade assignments or tests through a web platform.  This will be a three (potentially four) step process, each involving a distinct type of user interaction: assignment/test creation and grading (done by the teacher), assignment/test completion (done by the student), and if time allows the teacher will also be able to leave comments that the student (and potentially parents) can view.  
-
-My original proposal in class would have had essentially the same underlying functionality, but was going to be used for translation projects rather than school assignments.  I have since decided however that this system lends itself better to this usage and that an application that helps with remote education would be in higher demand these days anyway.
 
 ### Features
 
